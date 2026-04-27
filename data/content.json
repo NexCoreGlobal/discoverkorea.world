@@ -1,0 +1,202 @@
+{
+  "site": {
+    "name": "DiscoverKorea",
+    "tagline": "Experience Korea, Love Korea",
+    "description": "Promoting Korean culture, K-Wave, cuisine, wildlife, and heritage to the world",
+    "languages": ["en", "ko", "es", "pt"]
+  },
+  "hero": {
+    "title": "Discover Korea",
+    "subtitle": "Experience Korea, Love Korea",
+    "description": "5000 Years of Culture, Innovation, and Natural Beauty"
+  },
+  "categories": [
+    {
+      "id": "kwave",
+      "title": "K-Wave",
+      "icon": "🌊",
+      "description": "Korean Pop Culture Taking the World by Storm",
+      "subcategories": [
+        {
+          "name": "K-POP",
+          "description": "From BTS to BLACKPINK",
+          "artists": ["BTS", "BLACKPINK", "Stray Kids", "NewJeans", "(G)I-DLE", "SEVENTEEN"]
+        },
+        {
+          "name": "K-DRAMA",
+          "description": "Captivating stories from Seoul",
+          "popular": ["Squid Game", "Crash Landing on You", "Itaewon Class"]
+        },
+        {
+          "name": "K-BEAUTY",
+          "description": "Revolutionary skincare innovations",
+          "trends": ["10-step routine", "Glass skin", "Cushion foundation"]
+        }
+      ]
+    },
+    {
+      "id": "species",
+      "title": "Korean Species",
+      "icon": "🐕",
+      "description": "Surviving 5000 Years: Korea's Resilient Nature",
+      "featured": {
+        "name": "Jindo Dog",
+        "korean": "진도개",
+        "description": "The Loyal Guardian of Korea",
+        "recognition": "UNESCO",
+        "years": "5000+",
+        "facts": [
+          "Known for unwavering loyalty",
+          "Can find their way home over 300km",
+          "Korean National Treasure",
+          "Medium-sized, intelligent, and independent"
+        ]
+      },
+      "species": [
+        {
+          "name": "Korean Ginseng",
+          "korean": "인삼",
+          "category": "plant",
+          "description": "6 years of patience for the world's finest ginseng",
+          "comparison": "vs Chinese Ginseng, vs American Ginseng"
+        },
+        {
+          "name": "Sapsaree",
+          "korean": "삽살개",
+          "category": "dog",
+          "description": "The Ghost-Fighting Dog",
+          "status": "Restored from near extinction"
+        },
+        {
+          "name": "Korean Pine",
+          "korean": "소나무",
+          "category": "plant",
+          "description": "The resilient national tree of Korea",
+          "significance": "Symbol of integrity and strength"
+        },
+        {
+          "name": "Korean Tiger",
+          "korean": "호랑이",
+          "category": "wildlife",
+          "description": "Symbol of strength and courage",
+          "status": "Extinct in wild, conservation efforts ongoing"
+        }
+      ]
+    },
+    {
+      "id": "taste",
+      "title": "Taste Korea",
+      "icon": "🍜",
+      "description": "Flavors that Tell a Thousand Stories",
+      "dishes": [
+        {
+          "name": "Korean BBQ",
+          "korean": "고기구이",
+          "description": "The ultimate social dining experience",
+          "types": ["Galbi", "Samgyeopsal", "Bulgogi"]
+        },
+        {
+          "name": "Kimchi",
+          "korean": "김치",
+          "description": "Korea's iconic fermented treasure",
+          "types": ["Baechu", "Kkakdugi", "Oi Sobagi"]
+        },
+        {
+          "name": "Bibimbap",
+          "korean": "비빔밥",
+          "description": "Harmony in a bowl",
+          "origin": "Jeonju"
+        },
+        {
+          "name": "Tteokbokki",
+          "korean": "떡볶이",
+          "description": "Spicy street food favorite",
+          "level": "Medium spicy"
+        },
+        {
+          "name": "Korean Fried Chicken",
+          "korean": "치킨",
+          "description": "Crispy perfection",
+          "styles": ["Original", "Soy Garlic", "Spicy"]
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "title": "Culture & Heritage",
+      "icon": "🏛️",
+      "description": "5000 Years of Rich History",
+      "periods": [
+        {
+          "name": "Ancient Korea",
+          "era": "57 BCE - 935 CE",
+          "kingdoms": ["Goguryeo", "Baekje", "Silla"]
+        },
+        {
+          "name": "Joseon Dynasty",
+          "era": "1392 - 1897",
+          "achievements": ["Hangul", "Turtle Ships", "Confucian Culture"]
+        },
+        {
+          "name": "Modern Korea",
+          "era": "1945 - Present",
+          "milestones": ["Korean War", "Economic Miracle", "K-Wave"]
+        }
+      ],
+      "heroes": [
+        {
+          "name": "Admiral Yi Sun-sin",
+          "korean": "이순신",
+          "title": "Korea's Greatest Naval Commander",
+          "achievements": ["23 victories in 23 battles", "Turtle Ship inventor"],
+          "significance": "National hero who saved Korea from Japanese invasion"
+        },
+        {
+          "name": "King Sejong",
+          "korean": "세종대왕",
+          "title": "Creator of Hangul",
+          "achievements": ["Invented Korean alphabet", "Promoted science and technology"],
+          "significance": "Most beloved king in Korean history"
+        }
+      ]
+    }
+  ],
+  "videos": {
+    "featured": [
+      {
+        "id": "3JTVQTk36R8",
+        "title": "K-Pop Demon Hunters",
+        "description": "Experience the magic of Korean culture",
+        "type": "animation"
+      }
+    ],
+    "kwave": [],
+    "species": [],
+    "culture": []
+  },
+  "images": {
+    "hero": "https://images.unsplash.com/photo-1517154421773-0529f29ea451?w=1920",
+    "categories": {
+      "kwave": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=800",
+      "species": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800",
+      "taste": "https://images.unsplash.com/photo-1590301157890-4810ed352733?w=800",
+      "culture": "https://images.unsplash.com/photo-1555400082-3ef3e826c2a8?w=800"
+    }
+  },
+  "social": {
+    "facebook": "#",
+    "instagram": "#",
+    "youtube": "#",
+    "twitter": "#"
+  },
+  "contact": {
+    "email": "info@discoverkorea.world"
+  },
+  "updates": [
+    {
+      "date": "2026-04-20",
+      "title": "Site Launch",
+      "description": "DiscoverKorea officially launches!"
+    }
+  ]
+}
